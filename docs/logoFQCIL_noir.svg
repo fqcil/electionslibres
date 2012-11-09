@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="366.09"
+   height="66.360001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="logoFQCIL_noir.svg"
+   inkscape:export-filename="/home/leon/Bureau/FQCIL/logoFQCIL_noir.png"
+   inkscape:export-xdpi="86.126335"
+   inkscape:export-ydpi="86.126335">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.0491525"
+     inkscape:cx="181.89297"
+     inkscape:cy="71.00396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1486"
+     inkscape:window-height="829"
+     inkscape:window-x="252"
+     inkscape:window-y="197"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-985.99376)">
+    <text
+       xml:space="preserve"
+       style="font-size:17.39311790000000002px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#333333;stroke:none;font-family:ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="156.08548"
+       y="1004.8188"
+       id="text3020"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3022"
+         x="156.08548"
+         y="1004.8188"
+         style="text-align:start;text-anchor:start;fill:#333333">Fédération Québécoise </tspan><tspan
+         sodipodi:role="line"
+         x="156.08548"
+         y="1026.5602"
+         style="text-align:start;text-anchor:start;fill:#333333"
+         id="tspan3024">des Communautés </tspan><tspan
+         sodipodi:role="line"
+         x="156.08548"
+         y="1048.3016"
+         style="text-align:start;text-anchor:start;fill:#333333"
+         id="tspan3026">et des Industries du Libre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.39311790000000002px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="-2.9157305"
+       y="1029.3694"
+       id="text3047"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3049"
+         x="-2.9157305"
+         y="1029.3694"
+         style="font-size:39.13451384999999760px;fill:#333333">FQCIL</tspan></text>
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       id="rect3051"
+       width="3.2943189"
+       height="64.788277"
+       x="131.03119"
+       y="987.24902" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+# Gestion des usagers
+
+* Validation de la qualité des mots de passe dans l'interface admin (création des usagers)
+* Compléter les fonctionnalités de la gestion des usagers: édition, rôles, ...
+
+
+# Données
+
+* Mettre à jour les circonsriptions et régions électorales
+* Code d'import de la liste DGE à solidifier / améliorer: gestion des différents formats de source de données, ordre et nommage des colonnes
+
+# Général
+
+* Gestion des exceptions

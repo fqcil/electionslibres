@@ -1,0 +1,69 @@
+/*
+ *  Copyright (C) 2012 Fédération Québécoise des Communautés et Industries du Libre.
+ *
+ *  Author: Emmanuel Milou <emmanuel.milou@fqcil.org>
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation; either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *   Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+ */
+
+.sort-table {
+	font:		Icon;
+	border:		1px Solid ThreeDShadow;
+	background:	Window;
+	color:		WindowText;
+}
+
+.sort-table thead {
+	background:	ButtonFace;
+}
+
+.sort-table td {
+	padding:	2px 5px;
+}
+
+.sort-table thead td {
+	border:			1px solid;
+	border-color:	ButtonHighlight ButtonShadow
+					ButtonShadow ButtonHighlight;
+	cursor:			default;
+}
+
+.sort-table thead td:active {
+	border-color:	ButtonShadow ButtonHighlight
+					ButtonHighlight ButtonShadow;
+	padding:		3px 4px 1px 6px;
+}
+
+.sort-table thead td[_sortType=None]:active {
+	border-color:	ButtonHighlight ButtonShadow
+					ButtonShadow ButtonHighlight;
+	padding:		2px 5px;
+}
+
+.sort-arrow {
+	width:					11px;
+	height:					11px;
+	background-position:	center center;
+	background-repeat:		no-repeat;
+	margin:					0 2px;
+}
+
+.sort-arrow.descending {
+	background-image:		url("./images/downsimple.png");
+
+}
+
+.sort-arrow.ascending {
+	background-image:		url("./images/upsimple.png");
+}

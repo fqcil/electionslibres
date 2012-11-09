@@ -1,0 +1,9 @@
+#Options -Indexes
+
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+#RewriteRule (.*) https://%{SERVER_NAME}/$1 [R,L]
+#AuthType Basic
+#AuthName "Restricted Area"
+#AuthUserFile "/home/pointage/.htpasswds/public_html/passwd"
+#require valid-user
